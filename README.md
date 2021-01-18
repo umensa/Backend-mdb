@@ -1,6 +1,6 @@
 # README -- Code The Dream Backend 2 Week 2c
 
-This repository contains the framework for the movie database application called "mdb" in the following Treehouse video for Active Record Associations in Rails: https://teamtreehouse.com/library/polymorphic-options .  You should create a git branch called backend2-lesson2c and make your changes there.
+This repository contains the framework for the movie database application called "mdb" in the following Treehouse video for Active Record Associations in Rails: https://teamtreehouse.com/library/polymorphic-options .  You should create a git branch called mdb and make your changes there.
 When you are done with the application, because you have completed all the changes from the Treehouse videos, you can git add, commit, and push your changes and 
 make a pull request.
 
